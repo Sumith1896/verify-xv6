@@ -1,0 +1,7 @@
+Instructions to run:
+--------------------
+1. Download the CPAchecker from the website.
+2. Extract and execute the following command from the root directory of CPAchecker:
+```
+scripts/cpa.sh -config config/predicateAnalysis.properties <link-to-bio.c> -preprocess
+```
